@@ -4,7 +4,7 @@ I am currently a Sophomore at the **University of Iowa**, and I am a Business An
 
 
 ## Project Title
-*Credit Card Balance Tracker*
+**Credit Card Balance Tracker**
 
 
 
@@ -14,7 +14,7 @@ I am currently a Sophomore at the **University of Iowa**, and I am a Business An
 
 
 ## How to Run Program
-When the user clicks on ==run== , the program asks for balance, purchases each month, number of months, and yearly interest rate.
+When the user clicks on *run* , the program asks for balance, purchases each month, number of months, and yearly interest rate.
 
 
 ## Files Used
